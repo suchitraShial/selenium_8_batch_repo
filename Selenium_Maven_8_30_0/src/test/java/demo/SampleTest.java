@@ -10,7 +10,8 @@ public class SampleTest {
 	{
 	Reporter.log("sampletest class is executed....", true);	
         Reporter.log("sampletest class is modified....", true);	
-        Reporter.log("sampletest class is added....", true);	
+        Reporter.log("sampletest class is added....", true);
+	 Reporter.log("sampletest class is added", true);	
 		
 	}
 }
