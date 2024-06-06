@@ -9,7 +9,7 @@ public class SampleTest {
 	public  void test() 
 	{
 	Reporter.log("sampletest class is executed....", true);	
-        Reporter.log("sampletest class is executed....", true);	
+        Reporter.log("sampletest class is modified....", true);	
 		
 	}
 }
